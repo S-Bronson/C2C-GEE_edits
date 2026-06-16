@@ -72,7 +72,7 @@ See:
 
 Citation: 
 ```
-Hermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., Coelho, D., Ciatto, G., Gorelick, N., Francini, S., 2026. Composite2Change (C2C) on Google Earth Engine: Time-series change detection and metrics characterizing disturbance and recovery. Environmental Modelling & Software (Submitted March 4, 2026).
+Hermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., Coelho, D., Ciatto, G., Gorelick, N., Bambagioni, E., Francini, S. 2026. Composite2Change (C2C) on Google Earth Engine: Time-series change detection and metrics characterizing disturbance and recovery. Environmental Modelling and Software. (In press)
 ```
 
 This algorithm is in preview and is subject to change.
@@ -295,8 +295,8 @@ C2Clibrary.plotTS(joinedCollections);
 ## NextGenCarbon. H2020 project funded by the European Commission, number 101184989 call HORIZON-CL5-2024-D1-01-07
 
 ## Reference
-Hermosilla, T., Wulder, M. A., White, J. C., Coops, N. C., Coelho, D., Ciatto, G., Gorelick, N., & Francini, S. (under review).
-*Composite2Change (C2C) on Google Earth Engine: Time-series change
-detection and metrics characterizing disturbance and recovery*.
-Manuscript submitted for publication to *Environmental Modelling &
-Software*.
+Hermosilla, T., Wulder, M.A., White, J.C., Coops, N.C., Coelho, D., 
+Ciatto, G., Gorelick, N., Bambagioni, E., Francini, S. 2026. 
+*Composite2Change (C2C) on Google Earth Engine: Time-series change 
+detection and metrics characterizing disturbance and recovery. 
+Environmental Modelling and Software*. (In press)
